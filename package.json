@@ -1,0 +1,19 @@
+{
+	"name": "2am-icons",
+	"displayName": "2am icons",
+	"description": "Minimal icons, but with color!",
+	"categories": [ "Themes" ],
+	"version": "0.0.1",
+	"publisher": "33p",
+	"license": "MIT",
+	"engines": { "vscode": "^1.41.0" },
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "2am-icons",
+				"label": "2am icons",
+				"path": "./icons/2am-icon-theme.json"
+			}
+		]
+	}
+}

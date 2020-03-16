@@ -1,0 +1,1675 @@
+{
+	"iconDefinitions": {
+		"_root_folder_dark": {
+			"iconPath": "./root-folder-dark.svg"
+		},
+		"_root_folder_open_dark": {
+			"iconPath": "./root-folder-open-dark.svg"
+		},
+		"_root_folder": {
+			"iconPath": "./root-folder-light.svg"
+		},
+		"_root_folder_open": {
+			"iconPath": "./root-folder-open-light.svg"
+		},
+		"_folder_dark": {
+			"iconPath": "./folder-dark.svg"
+		},
+		"_folder_light": {
+			"iconPath": "./folder-light.svg"
+		},
+		"_folder_open_dark": {
+			"iconPath": "./folder-open-dark.svg"
+		},
+		"_folder_open_light": {
+			"iconPath": "./folder-open-light.svg"
+		},
+
+		"_R_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_R": {
+			"iconPath": "./519aba.svg"
+		},
+		"_argdown_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_argdown": {
+			"iconPath": "./519aba.svg"
+		},
+		"_asm_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_asm": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_audio_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_audio": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_babel_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_babel": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_bower_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_bower": {
+			"iconPath": "./e37933.svg"
+		},
+		"_bsl_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_bsl": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_c_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_c": {
+			"iconPath": "./519aba.svg"
+		},
+		"_c-sharp_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_c-sharp": {
+			"iconPath": "./519aba.svg"
+		},
+		"_c_1_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_c_1": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_c_2_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_c_2": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_cake_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_cake": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_cake_php_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_cake_php": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_clock_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_clock": {
+			"iconPath": "./519aba.svg"
+		},
+		"_clock_1_light": {
+			"iconPath": "./627379.svg"
+		},
+		"_clock_1": {
+			"iconPath": "./6d8086.svg"
+		},
+		"_clojure_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_clojure": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_clojure_1_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_clojure_1": {
+			"iconPath": "./519aba.svg"
+		},
+		"_code-climate_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_code-climate": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_code-search_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_code-search": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_coffee_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_coffee": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_coldfusion_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_coldfusion": {
+			"iconPath": "./519aba.svg"
+		},
+		"_config_light": {
+			"iconPath": "./627379.svg"
+		},
+		"_config": {
+			"iconPath": "./6d8086.svg"
+		},
+		"_cpp_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_cpp": {
+			"iconPath": "./519aba.svg"
+		},
+		"_cpp_1_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_cpp_1": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_cpp_2_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_cpp_2": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_crystal_light": {
+			"iconPath": "./bfc2c1.svg"
+		},
+		"_crystal": {
+			"iconPath": "./d4d7d6.svg"
+		},
+		"_crystal_embedded_light": {
+			"iconPath": "./bfc2c1.svg"
+		},
+		"_crystal_embedded": {
+			"iconPath": "./d4d7d6.svg"
+		},
+		"_css_light": {
+			"iconPath": "./66ffbb.svg"
+		},
+		"_css": {
+			"iconPath": "./66ffbb.svg"
+		},
+		"_csv_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_csv": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_d_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_d": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_dart_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_dart": {
+			"iconPath": "./519aba.svg"
+		},
+		"_db_light": {
+			"iconPath": "./dd4b78.svg"
+		},
+		"_db": {
+			"iconPath": "./f55385.svg"
+		},
+		"_default_light": {
+			"iconPath": "./bfc2c1.svg"
+		},
+		"_default": {
+			"iconPath": "./d4d7d6.svg"
+		},
+		"_docker_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_docker": {
+			"iconPath": "./519aba.svg"
+		},
+		"_docker_1_light": {
+			"iconPath": "./455155.svg"
+		},
+		"_docker_1": {
+			"iconPath": "./4d5a5e.svg"
+		},
+		"_docker_2_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_docker_2": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_docker_3_light": {
+			"iconPath": "./dd4b78.svg"
+		},
+		"_docker_3": {
+			"iconPath": "./f55385.svg"
+		},
+		"_ejs_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_ejs": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_elixir_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_elixir": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_elixir_script_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_elixir_script": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_elm_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_elm": {
+			"iconPath": "./519aba.svg"
+		},
+		"_eslint_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_eslint": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_eslint_1_light": {
+			"iconPath": "./455155.svg"
+		},
+		"_eslint_1": {
+			"iconPath": "./4d5a5e.svg"
+		},
+		"_ethereum_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_ethereum": {
+			"iconPath": "./519aba.svg"
+		},
+		"_f-sharp_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_f-sharp": {
+			"iconPath": "./519aba.svg"
+		},
+		"_favicon_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_favicon": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_firebase_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_firebase": {
+			"iconPath": "./e37933.svg"
+		},
+		"_firefox_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_firefox": {
+			"iconPath": "./e37933.svg"
+		},
+		"_font_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_font": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_git_light": {
+			"iconPath": "./3b4b52.svg"
+		},
+		"_git": {
+			"iconPath": "./41535b.svg"
+		},
+		"_go_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_go": {
+			"iconPath": "./519aba.svg"
+		},
+		"_go2_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_go2": {
+			"iconPath": "./519aba.svg"
+		},
+		"_gradle_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_gradle": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_grails_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_grails": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_graphql_light": {
+			"iconPath": "./dd4b78.svg"
+		},
+		"_graphql": {
+			"iconPath": "./f55385.svg"
+		},
+		"_grunt_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_grunt": {
+			"iconPath": "./e37933.svg"
+		},
+		"_gulp_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_gulp": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_haml_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_haml": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_happenings_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_happenings": {
+			"iconPath": "./519aba.svg"
+		},
+		"_haskell_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_haskell": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_haxe_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_haxe": {
+			"iconPath": "./e37933.svg"
+		},
+		"_haxe_1_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_haxe_1": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_haxe_2_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_haxe_2": {
+			"iconPath": "./519aba.svg"
+		},
+		"_haxe_3_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_haxe_3": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_heroku_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_heroku": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_hex_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_hex": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_html_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_html": {
+			"iconPath": "./519aba.svg"
+		},
+		"_html_1_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_html_1": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_html_2_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_html_2": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_html_3_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_html_3": {
+			"iconPath": "./e37933.svg"
+		},
+		"_html_erb_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_html_erb": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_ignored_light": {
+			"iconPath": "./3b4b52.svg"
+		},
+		"_ignored": {
+			"iconPath": "./41535b.svg"
+		},
+		"_illustrator_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_illustrator": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_image_light": {
+			"iconPath": "./1fb1d4.svg"
+		},
+		"_image": {
+			"iconPath": "./1fb1d4.svg"
+		},
+		"_info_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_info": {
+			"iconPath": "./519aba.svg"
+		},
+		"_ionic_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_ionic": {
+			"iconPath": "./519aba.svg"
+		},
+		"_jade_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_jade": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_java_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_java": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_javascript_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_javascript": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_javascript_1_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_javascript_1": {
+			"iconPath": "./e37933.svg"
+		},
+		"_javascript_2_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_javascript_2": {
+			"iconPath": "./519aba.svg"
+		},
+		"_jenkins_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_jenkins": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_jinja_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_jinja": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_json_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_json": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_json_1_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_json_1": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_julia_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_julia": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_karma_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_karma": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_kotlin_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_kotlin": {
+			"iconPath": "./e37933.svg"
+		},
+		"_less_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_less": {
+			"iconPath": "./519aba.svg"
+		},
+		"_license_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_license": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_license_1_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_license_1": {
+			"iconPath": "./e37933.svg"
+		},
+		"_license_2_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_license_2": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_liquid_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_liquid": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_livescript_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_livescript": {
+			"iconPath": "./519aba.svg"
+		},
+		"_lock_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_lock": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_lua_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_lua": {
+			"iconPath": "./519aba.svg"
+		},
+		"_makefile_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_makefile": {
+			"iconPath": "./e37933.svg"
+		},
+		"_makefile_1_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_makefile_1": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_makefile_2_light": {
+			"iconPath": "./627379.svg"
+		},
+		"_makefile_2": {
+			"iconPath": "./6d8086.svg"
+		},
+		"_makefile_3_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_makefile_3": {
+			"iconPath": "./519aba.svg"
+		},
+		"_markdown_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_markdown": {
+			"iconPath": "./519aba.svg"
+		},
+		"_maven_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_maven": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_mdo_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_mdo": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_mustache_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_mustache": {
+			"iconPath": "./e37933.svg"
+		},
+		"_npm_light": {
+			"iconPath": "./3b4b52.svg"
+		},
+		"_npm": {
+			"iconPath": "./41535b.svg"
+		},
+		"_npm_1_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_npm_1": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_npm_ignored_light": {
+			"iconPath": "./3b4b52.svg"
+		},
+		"_npm_ignored": {
+			"iconPath": "./41535b.svg"
+		},
+		"_nunjucks_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_nunjucks": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_ocaml_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_ocaml": {
+			"iconPath": "./e37933.svg"
+		},
+		"_odata_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_odata": {
+			"iconPath": "./e37933.svg"
+		},
+		"_pddl_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_pddl": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_pdf_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_pdf": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_perl_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_perl": {
+			"iconPath": "./519aba.svg"
+		},
+		"_photoshop_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_photoshop": {
+			"iconPath": "./519aba.svg"
+		},
+		"_php_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_php": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_plan_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_plan": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_platformio_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_platformio": {
+			"iconPath": "./e37933.svg"
+		},
+		"_powershell_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_powershell": {
+			"iconPath": "./519aba.svg"
+		},
+		"_pug_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_pug": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_puppet_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_puppet": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_python_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_python": {
+			"iconPath": "./519aba.svg"
+		},
+		"_react_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_react": {
+			"iconPath": "./519aba.svg"
+		},
+		"_react_1_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_react_1": {
+			"iconPath": "./e37933.svg"
+		},
+		"_react_2_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_react_2": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_reasonml_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_reasonml": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_rollup_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_rollup": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_ruby_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_ruby": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_rust_light": {
+			"iconPath": "./627379.svg"
+		},
+		"_rust": {
+			"iconPath": "./6d8086.svg"
+		},
+		"_salesforce_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_salesforce": {
+			"iconPath": "./519aba.svg"
+		},
+		"_sass_light": {
+			"iconPath": "./dd4b78.svg"
+		},
+		"_sass": {
+			"iconPath": "./f55385.svg"
+		},
+		"_sbt_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_sbt": {
+			"iconPath": "./519aba.svg"
+		},
+		"_scala_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_scala": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_shell_light": {
+			"iconPath": "./455155.svg"
+		},
+		"_shell": {
+			"iconPath": "./4d5a5e.svg"
+		},
+		"_slim_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_slim": {
+			"iconPath": "./e37933.svg"
+		},
+		"_smarty_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_smarty": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_spring_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_spring": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_stylelint_light": {
+			"iconPath": "./bfc2c1.svg"
+		},
+		"_stylelint": {
+			"iconPath": "./d4d7d6.svg"
+		},
+		"_stylelint_1_light": {
+			"iconPath": "./455155.svg"
+		},
+		"_stylelint_1": {
+			"iconPath": "./4d5a5e.svg"
+		},
+		"_stylus_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_stylus": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_sublime_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_sublime": {
+			"iconPath": "./e37933.svg"
+		},
+		"_svg_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_svg": {
+			"iconPath": "./e37933.svg"
+		},
+		"_svg_1_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_svg_1": {
+			"iconPath": "./519aba.svg"
+		},
+		"_swift_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_swift": {
+			"iconPath": "./e37933.svg"
+		},
+		"_terraform_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_terraform": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_tex_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_tex": {
+			"iconPath": "./519aba.svg"
+		},
+		"_tex_1_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_tex_1": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_tex_2_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_tex_2": {
+			"iconPath": "./e37933.svg"
+		},
+		"_tex_3_light": {
+			"iconPath": "./bfc2c1.svg"
+		},
+		"_tex_3": {
+			"iconPath": "./d4d7d6.svg"
+		},
+		"_todo": {
+			"iconPath": "./d4d7d6.svg"
+		},
+		"_tsconfig_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_tsconfig": {
+			"iconPath": "./519aba.svg"
+		},
+		"_twig_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_twig": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_typescript_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_typescript": {
+			"iconPath": "./519aba.svg"
+		},
+		"_typescript_1_light": {
+			"iconPath": "./b7b73b.svg"
+		},
+		"_typescript_1": {
+			"iconPath": "./cbcb41.svg"
+		},
+		"_vala_light": {
+			"iconPath": "./627379.svg"
+		},
+		"_vala": {
+			"iconPath": "./6d8086.svg"
+		},
+		"_video_light": {
+			"iconPath": "./dd4b78.svg"
+		},
+		"_video": {
+			"iconPath": "./f55385.svg"
+		},
+		"_vue_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_vue": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_wasm_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_wasm": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_wat_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_wat": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_webpack_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_webpack": {
+			"iconPath": "./519aba.svg"
+		},
+		"_wgt_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_wgt": {
+			"iconPath": "./519aba.svg"
+		},
+		"_windows_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_windows": {
+			"iconPath": "./519aba.svg"
+		},
+		"_word_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_word": {
+			"iconPath": "./519aba.svg"
+		},
+		"_xls_light": {
+			"iconPath": "./7fae42.svg"
+		},
+		"_xls": {
+			"iconPath": "./8dc149.svg"
+		},
+		"_xml_light": {
+			"iconPath": "./cc6d2e.svg"
+		},
+		"_xml": {
+			"iconPath": "./e37933.svg"
+		},
+		"_yarn_light": {
+			"iconPath": "./498ba7.svg"
+		},
+		"_yarn": {
+			"iconPath": "./519aba.svg"
+		},
+		"_yml_light": {
+			"iconPath": "./9068b0.svg"
+		},
+		"_yml": {
+			"iconPath": "./a074c4.svg"
+		},
+		"_zip_light": {
+			"iconPath": "./b8383d.svg"
+		},
+		"_zip": {
+			"iconPath": "./cc3e44.svg"
+		},
+		"_zip_1_light": {
+			"iconPath": "./627379.svg"
+		},
+		"_zip_1": {
+			"iconPath": "./6d8086.svg"
+		}
+
+	},
+	"folderExpanded": "_folder_open_dark",
+	"folder": "_folder_dark",
+	"file": "_default",
+	"rootFolderExpanded": "_root_folder_open_dark",
+	"rootFolder": "_root_folder_dark",
+	"fileExtensions": {
+		"bsl": "_bsl",
+		"mdo": "_mdo",
+		"asm": "_asm",
+		"s": "_asm",
+		"h": "_c_1",
+		"aspx": "_html",
+		"ascx": "_html_1",
+		"asax": "_html_2",
+		"master": "_html_2",
+		"hh": "_cpp_1",
+		"hpp": "_cpp_1",
+		"hxx": "_cpp_1",
+		"edn": "_clojure_1",
+		"cfc": "_coldfusion",
+		"cfm": "_coldfusion",
+		"config": "_config",
+		"cfg": "_config",
+		"conf": "_config",
+		"cr": "_crystal",
+		"ecr": "_crystal_embedded",
+		"slang": "_crystal_embedded",
+		"cson": "_json",
+		"css.map": "_css",
+		"sss": "_css",
+		"csv": "_csv",
+		"xls": "_xls",
+		"xlsx": "_xls",
+		"cake": "_cake",
+		"ctp": "_cake_php",
+		"d": "_d",
+		"doc": "_word",
+		"docx": "_word",
+		"ejs": "_ejs",
+		"ex": "_elixir",
+		"exs": "_elixir_script",
+		"elm": "_elm",
+		"ico": "_favicon",
+		"gitignore": "_git",
+		"gitconfig": "_git",
+		"gitkeep": "_git",
+		"gitattributes": "_git",
+		"gitmodules": "_git",
+		"slide": "_go",
+		"article": "_go",
+		"gradle": "_gradle",
+		"gsp": "_grails",
+		"gql": "_graphql",
+		"graphql": "_graphql",
+		"haml": "_haml",
+		"hs": "_haskell",
+		"lhs": "_haskell",
+		"hx": "_haxe",
+		"hxs": "_haxe_1",
+		"hxp": "_haxe_2",
+		"hxml": "_haxe_3",
+		"class": "_java",
+		"classpath": "_java",
+		"js.map": "_javascript",
+		"spec.js": "_javascript_1",
+		"test.js": "_javascript_1",
+		"es": "_javascript",
+		"es5": "_javascript",
+		"es7": "_javascript",
+		"jinja": "_jinja",
+		"jinja2": "_jinja",
+		"jl": "_julia",
+		"kt": "_kotlin",
+		"kts": "_kotlin",
+		"dart": "_dart",
+		"liquid": "_liquid",
+		"ls": "_livescript",
+		"argdown": "_argdown",
+		"ad": "_argdown",
+		"mustache": "_mustache",
+		"stache": "_mustache",
+		"njk": "_nunjucks",
+		"nunjucks": "_nunjucks",
+		"nunjs": "_nunjucks",
+		"nunj": "_nunjucks",
+		"njs": "_nunjucks",
+		"nj": "_nunjucks",
+		"npm-debug.log": "_npm",
+		"npmignore": "_npm_1",
+		"npmrc": "_npm_1",
+		"ml": "_ocaml",
+		"mli": "_ocaml",
+		"cmx": "_ocaml",
+		"cmxa": "_ocaml",
+		"odata": "_odata",
+		"php.inc": "_php",
+		"pddl": "_pddl",
+		"plan": "_plan",
+		"happenings": "_happenings",
+		"pug": "_pug",
+		"pp": "_puppet",
+		"epp": "_puppet",
+		"spec.jsx": "_react_1",
+		"test.jsx": "_react_1",
+		"cjsx": "_react",
+		"spec.tsx": "_react_2",
+		"test.tsx": "_react_2",
+		"re": "_reasonml",
+		"r": "_R",
+		"erb": "_html_erb",
+		"erb.html": "_html_erb",
+		"html.erb": "_html_erb",
+		"sass": "_sass",
+		"springbeans": "_spring",
+		"slim": "_slim",
+		"smarty.tpl": "_smarty",
+		"sbt": "_sbt",
+		"scala": "_scala",
+		"sol": "_ethereum",
+		"styl": "_stylus",
+		"tf": "_terraform",
+		"tf.json": "_terraform",
+		"tfvars": "_terraform",
+		"tex": "_tex",
+		"sty": "_tex_1",
+		"dtx": "_tex_2",
+		"ins": "_tex_3",
+		"toml": "_config",
+		"twig": "_twig",
+		"spec.ts": "_typescript_1",
+		"test.ts": "_typescript_1",
+		"vala": "_vala",
+		"vapi": "_vala",
+		"vue": "_vue",
+		"wasm": "_wasm",
+		"wat": "_wat",
+		"jar": "_zip",
+		"zip": "_zip_1",
+		"wgt": "_wgt",
+		"ai": "_illustrator",
+		"psd": "_photoshop",
+		"pdf": "_pdf",
+		"eot": "_font",
+		"ttf": "_font",
+		"woff": "_font",
+		"woff2": "_font",
+		"gif": "_image",
+		"jpg": "_image",
+		"jpeg": "_image",
+		"png": "_image",
+		"pxm": "_image",
+		"svg": "_svg",
+		"svgx": "_image",
+		"sublime-project": "_sublime",
+		"sublime-workspace": "_sublime",
+		"component": "_salesforce",
+		"cls": "_salesforce",
+		"fish": "_shell",
+		"mov": "_video",
+		"ogv": "_video",
+		"webm": "_video",
+		"avi": "_video",
+		"mpg": "_video",
+		"mp4": "_video",
+		"mp3": "_audio",
+		"ogg": "_audio",
+		"wav": "_audio",
+		"flac": "_audio",
+		"3ds": "_svg_1",
+		"3dm": "_svg_1",
+		"stl": "_svg_1",
+		"obj": "_svg_1",
+		"dae": "_svg_1",
+		"babelrc": "_babel",
+		"bowerrc": "_bower",
+		"dockerignore": "_docker_1",
+		"codeclimate.yml": "_code-climate",
+		"eslintrc": "_eslint",
+		"eslintrc.js": "_eslint",
+		"eslintrc.yaml": "_eslint",
+		"eslintrc.yml": "_eslint",
+		"eslintrc.json": "_eslint",
+		"eslintignore": "_eslint_1",
+		"firebaserc": "_firebase",
+		"jshintrc": "_javascript_2",
+		"jscsrc": "_javascript_2",
+		"stylelintrc": "_stylelint",
+		"stylelintrc.json": "_stylelint",
+		"stylelintrc.yaml": "_stylelint",
+		"stylelintrc.yml": "_stylelint",
+		"stylelintrc.js": "_stylelint",
+		"stylelintignore": "_stylelint_1",
+		"direnv": "_config",
+		"env": "_config",
+		"static": "_config",
+		"editorconfig": "_config",
+		"slugignore": "_config",
+		"tmp": "_clock_1",
+		"htaccess": "_config",
+		"key": "_lock",
+		"cert": "_lock",
+		"ds_store": "_ignored"
+	},
+	"fileNames": {
+		"mix": "_hex",
+		"karma.conf.js": "_karma",
+		"karma.conf.coffee": "_karma",
+		"readme.md": "_info",
+		"changelog.md": "_clock",
+		"changelog": "_clock",
+		"changes.md": "_clock",
+		"version.md": "_clock",
+		"version": "_clock",
+		"mvnw": "_maven",
+		"tsconfig.json": "_tsconfig",
+		"swagger.json": "_json_1",
+		"swagger.yml": "_json_1",
+		"swagger.yaml": "_json_1",
+		"mime.types": "_config",
+		"jenkinsfile": "_jenkins",
+		"bower.json": "_bower",
+		"docker-healthcheck": "_docker_2",
+		"docker-compose.yml": "_docker_3",
+		"docker-compose.yaml": "_docker_3",
+		"docker-compose.override.yml": "_docker_3",
+		"docker-compose.override.yaml": "_docker_3",
+		"firebase.json": "_firebase",
+		"geckodriver": "_firefox",
+		"gruntfile.js": "_grunt",
+		"gruntfile.babel.js": "_grunt",
+		"gruntfile.coffee": "_grunt",
+		"gulpfile": "_gulp",
+		"ionic.config.json": "_ionic",
+		"ionic.project": "_ionic",
+		"platformio.ini": "_platformio",
+		"rollup.config.js": "_rollup",
+		"sass-lint.yml": "_sass",
+		"stylelint.config.js": "_stylelint",
+		"yarn.clean": "_yarn",
+		"yarn.lock": "_yarn",
+		"webpack.config.js": "_webpack",
+		"webpack.config.build.js": "_webpack",
+		"webpack.common.js": "_webpack",
+		"webpack.dev.js": "_webpack",
+		"webpack.prod.js": "_webpack",
+		"license": "_license",
+		"licence": "_license",
+		"copying": "_license",
+		"compiling": "_license_1",
+		"contributing": "_license_2",
+		"qmakefile": "_makefile_1",
+		"omakefile": "_makefile_2",
+		"cmakelists.txt": "_makefile_3",
+		"procfile": "_heroku",
+		"todo": "_todo",
+		"npm-debug.log": "_npm_ignored"
+	},
+	"languageIds": {
+		"bat": "_windows",
+		"clojure": "_clojure",
+		"coffeescript": "_coffee",
+		"jsonc": "_json",
+		"c": "_c",
+		"cpp": "_cpp",
+		"csharp": "_c-sharp",
+		"css": "_css",
+		"dockerfile": "_docker",
+		"fsharp": "_f-sharp",
+		"go": "_go2",
+		"groovy": "_grails",
+		"handlebars": "_mustache",
+		"html": "_html_3",
+		"properties": "_java",
+		"java": "_java",
+		"javascriptreact": "_react",
+		"javascript": "_javascript",
+		"json": "_json",
+		"less": "_less",
+		"lua": "_lua",
+		"makefile": "_makefile",
+		"markdown": "_markdown",
+		"objective-c": "_c_2",
+		"objective-cpp": "_cpp_2",
+		"perl": "_perl",
+		"php": "_php",
+		"powershell": "_powershell",
+		"jade": "_jade",
+		"python": "_python",
+		"r": "_R",
+		"razor": "_html",
+		"ruby": "_ruby",
+		"rust": "_rust",
+		"scss": "_sass",
+		"shellscript": "_shell",
+		"sql": "_db",
+		"swift": "_swift",
+		"typescript": "_typescript",
+		"typescriptreact": "_react",
+		"xml": "_xml",
+		"yaml": "_yml",
+		"argdown": "_argdown",
+		"elm": "_elm",
+		"ocaml": "_ocaml",
+		"nunjucks": "_nunjucks",
+		"mustache": "_mustache",
+		"erb": "_html_erb",
+		"terraform": "_terraform",
+		"vue": "_vue",
+		"sass": "_sass",
+		"kotlin": "_kotlin",
+		"jinja": "_jinja",
+		"haxe": "_haxe",
+		"haskell": "_haskell",
+		"gradle": "_gradle",
+		"elixir": "_elixir",
+		"haml": "_haml",
+		"stylus": "_stylus",
+		"vala": "_vala",
+		"todo": "_todo"
+	},
+	"light": {
+		"folderExpanded": "_folder_open_light",
+		"folder": "_folder_light",
+		"rootFolderExpanded": "_root_folder_open",
+		"rootFolder": "_root_folder",
+		"file": "_default_light",
+		"fileExtensions": {
+			"bsl": "_bsl_light",
+			"mdo": "_mdo_light",
+			"asm": "_asm_light",
+			"s": "_asm_light",
+			"h": "_c_1_light",
+			"aspx": "_html_light",
+			"ascx": "_html_1_light",
+			"asax": "_html_2_light",
+			"master": "_html_2_light",
+			"hh": "_cpp_1_light",
+			"hpp": "_cpp_1_light",
+			"hxx": "_cpp_1_light",
+			"edn": "_clojure_1_light",
+			"cfc": "_coldfusion_light",
+			"cfm": "_coldfusion_light",
+			"config": "_config_light",
+			"cfg": "_config_light",
+			"conf": "_config_light",
+			"cr": "_crystal_light",
+			"ecr": "_crystal_embedded_light",
+			"slang": "_crystal_embedded_light",
+			"cson": "_json_light",
+			"css.map": "_css_light",
+			"sss": "_css_light",
+			"csv": "_csv_light",
+			"xls": "_xls_light",
+			"xlsx": "_xls_light",
+			"cake": "_cake_light",
+			"ctp": "_cake_php_light",
+			"d": "_d_light",
+			"doc": "_word_light",
+			"docx": "_word_light",
+			"ejs": "_ejs_light",
+			"ex": "_elixir_light",
+			"exs": "_elixir_script_light",
+			"elm": "_elm_light",
+			"ico": "_favicon_light",
+			"gitignore": "_git_light",
+			"gitconfig": "_git_light",
+			"gitkeep": "_git_light",
+			"gitattributes": "_git_light",
+			"gitmodules": "_git_light",
+			"slide": "_go_light",
+			"article": "_go_light",
+			"gradle": "_gradle_light",
+			"gsp": "_grails_light",
+			"gql": "_graphql_light",
+			"graphql": "_graphql_light",
+			"haml": "_haml_light",
+			"hs": "_haskell_light",
+			"lhs": "_haskell_light",
+			"hx": "_haxe_light",
+			"hxs": "_haxe_1_light",
+			"hxp": "_haxe_2_light",
+			"hxml": "_haxe_3_light",
+			"class": "_java_light",
+			"classpath": "_java_light",
+			"js.map": "_javascript_light",
+			"spec.js": "_javascript_1_light",
+			"test.js": "_javascript_1_light",
+			"es": "_javascript_light",
+			"es5": "_javascript_light",
+			"es7": "_javascript_light",
+			"jinja": "_jinja_light",
+			"jinja2": "_jinja_light",
+			"jl": "_julia_light",
+			"kt": "_kotlin_light",
+			"kts": "_kotlin_light",
+			"dart": "_dart_light",
+			"liquid": "_liquid_light",
+			"ls": "_livescript_light",
+			"argdown": "_argdown_light",
+			"ad": "_argdown_light",
+			"mustache": "_mustache_light",
+			"stache": "_mustache_light",
+			"njk": "_nunjucks_light",
+			"nunjucks": "_nunjucks_light",
+			"nunjs": "_nunjucks_light",
+			"nunj": "_nunjucks_light",
+			"njs": "_nunjucks_light",
+			"nj": "_nunjucks_light",
+			"npm-debug.log": "_npm_light",
+			"npmignore": "_npm_1_light",
+			"npmrc": "_npm_1_light",
+			"ml": "_ocaml_light",
+			"mli": "_ocaml_light",
+			"cmx": "_ocaml_light",
+			"cmxa": "_ocaml_light",
+			"odata": "_odata_light",
+			"php.inc": "_php_light",
+			"pddl": "_pddl_light",
+			"plan": "_plan_light",
+			"happenings": "_happenings_light",
+			"pug": "_pug_light",
+			"pp": "_puppet_light",
+			"epp": "_puppet_light",
+			"spec.jsx": "_react_1_light",
+			"test.jsx": "_react_1_light",
+			"cjsx": "_react_light",
+			"spec.tsx": "_react_2_light",
+			"test.tsx": "_react_2_light",
+			"re": "_reasonml_light",
+			"r": "_R_light",
+			"erb": "_html_erb_light",
+			"erb.html": "_html_erb_light",
+			"html.erb": "_html_erb_light",
+			"sass": "_sass_light",
+			"springbeans": "_spring_light",
+			"slim": "_slim_light",
+			"smarty.tpl": "_smarty_light",
+			"sbt": "_sbt_light",
+			"scala": "_scala_light",
+			"sol": "_ethereum_light",
+			"styl": "_stylus_light",
+			"tf": "_terraform_light",
+			"tf.json": "_terraform_light",
+			"tfvars": "_terraform_light",
+			"tex": "_tex_light",
+			"sty": "_tex_1_light",
+			"dtx": "_tex_2_light",
+			"ins": "_tex_3_light",
+			"toml": "_config_light",
+			"twig": "_twig_light",
+			"spec.ts": "_typescript_1_light",
+			"test.ts": "_typescript_1_light",
+			"vala": "_vala_light",
+			"vapi": "_vala_light",
+			"vue": "_vue_light",
+			"wasm": "_wasm_light",
+			"wat": "_wat_light",
+			"jar": "_zip_light",
+			"zip": "_zip_1_light",
+			"wgt": "_wgt_light",
+			"ai": "_illustrator_light",
+			"psd": "_photoshop_light",
+			"pdf": "_pdf_light",
+			"eot": "_font_light",
+			"ttf": "_font_light",
+			"woff": "_font_light",
+			"woff2": "_font_light",
+			"gif": "_image_light",
+			"jpg": "_image_light",
+			"jpeg": "_image_light",
+			"png": "_image_light",
+			"pxm": "_image_light",
+			"svg": "_svg_light",
+			"svgx": "_image_light",
+			"sublime-project": "_sublime_light",
+			"sublime-workspace": "_sublime_light",
+			"component": "_salesforce_light",
+			"cls": "_salesforce_light",
+			"fish": "_shell_light",
+			"mov": "_video_light",
+			"ogv": "_video_light",
+			"webm": "_video_light",
+			"avi": "_video_light",
+			"mpg": "_video_light",
+			"mp4": "_video_light",
+			"mp3": "_audio_light",
+			"ogg": "_audio_light",
+			"wav": "_audio_light",
+			"flac": "_audio_light",
+			"3ds": "_svg_1_light",
+			"3dm": "_svg_1_light",
+			"stl": "_svg_1_light",
+			"obj": "_svg_1_light",
+			"dae": "_svg_1_light",
+			"babelrc": "_babel_light",
+			"bowerrc": "_bower_light",
+			"dockerignore": "_docker_1_light",
+			"codeclimate.yml": "_code-climate_light",
+			"eslintrc": "_eslint_light",
+			"eslintrc.js": "_eslint_light",
+			"eslintrc.yaml": "_eslint_light",
+			"eslintrc.yml": "_eslint_light",
+			"eslintrc.json": "_eslint_light",
+			"eslintignore": "_eslint_1_light",
+			"firebaserc": "_firebase_light",
+			"jshintrc": "_javascript_2_light",
+			"jscsrc": "_javascript_2_light",
+			"stylelintrc": "_stylelint_light",
+			"stylelintrc.json": "_stylelint_light",
+			"stylelintrc.yaml": "_stylelint_light",
+			"stylelintrc.yml": "_stylelint_light",
+			"stylelintrc.js": "_stylelint_light",
+			"stylelintignore": "_stylelint_1_light",
+			"direnv": "_config_light",
+			"env": "_config_light",
+			"static": "_config_light",
+			"editorconfig": "_config_light",
+			"slugignore": "_config_light",
+			"tmp": "_clock_1_light",
+			"htaccess": "_config_light",
+			"key": "_lock_light",
+			"cert": "_lock_light",
+			"ds_store": "_ignored_light"
+		},
+		"languageIds": {
+			"bat": "_windows_light",
+			"clojure": "_clojure_light",
+			"coffeescript": "_coffee_light",
+			"jsonc": "_json_light",
+			"c": "_c_light",
+			"cpp": "_cpp_light",
+			"csharp": "_c-sharp_light",
+			"css": "_css_light",
+			"dockerfile": "_docker_light",
+			"fsharp": "_f-sharp_light",
+			"go": "_go2_light",
+			"groovy": "_grails_light",
+			"handlebars": "_mustache_light",
+			"html": "_html_3_light",
+			"properties": "_java_light",
+			"java": "_java_light",
+			"javascriptreact": "_react_light",
+			"javascript": "_javascript_light",
+			"json": "_json_light",
+			"less": "_less_light",
+			"lua": "_lua_light",
+			"makefile": "_makefile_light",
+			"markdown": "_markdown_light",
+			"objective-c": "_c_2_light",
+			"objective-cpp": "_cpp_2_light",
+			"perl": "_perl_light",
+			"php": "_php_light",
+			"powershell": "_powershell_light",
+			"jade": "_jade_light",
+			"python": "_python_light",
+			"r": "_R_light",
+			"razor": "_html_light",
+			"ruby": "_ruby_light",
+			"rust": "_rust_light",
+			"scss": "_sass_light",
+			"shellscript": "_shell_light",
+			"sql": "_db_light",
+			"swift": "_swift_light",
+			"typescript": "_typescript_light",
+			"typescriptreact": "_react_light",
+			"xml": "_xml_light",
+			"yaml": "_yml_light",
+			"argdown": "_argdown_light",
+			"elm": "_elm_light",
+			"ocaml": "_ocaml_light",
+			"nunjucks": "_nunjucks_light",
+			"mustache": "_mustache_light",
+			"erb": "_html_erb_light",
+			"terraform": "_terraform_light",
+			"vue": "_vue_light",
+			"sass": "_sass_light",
+			"kotlin": "_kotlin_light",
+			"jinja": "_jinja_light",
+			"haxe": "_haxe_light",
+			"haskell": "_haskell_light",
+			"gradle": "_gradle_light",
+			"elixir": "_elixir_light",
+			"haml": "_haml_light",
+			"stylus": "_stylus_light",
+			"vala": "_vala_light"
+		},
+		"fileNames": {
+			"mix": "_hex_light",
+			"karma.conf.js": "_karma_light",
+			"karma.conf.coffee": "_karma_light",
+			"readme.md": "_info_light",
+			"changelog.md": "_clock_light",
+			"changelog": "_clock_light",
+			"changes.md": "_clock_light",
+			"version.md": "_clock_light",
+			"version": "_clock_light",
+			"mvnw": "_maven_light",
+			"tsconfig.json": "_tsconfig_light",
+			"swagger.json": "_json_1_light",
+			"swagger.yml": "_json_1_light",
+			"swagger.yaml": "_json_1_light",
+			"mime.types": "_config_light",
+			"jenkinsfile": "_jenkins_light",
+			"bower.json": "_bower_light",
+			"docker-healthcheck": "_docker_2_light",
+			"docker-compose.yml": "_docker_3_light",
+			"docker-compose.yaml": "_docker_3_light",
+			"docker-compose.override.yml": "_docker_3_light",
+			"docker-compose.override.yaml": "_docker_3_light",
+			"firebase.json": "_firebase_light",
+			"geckodriver": "_firefox_light",
+			"gruntfile.js": "_grunt_light",
+			"gruntfile.babel.js": "_grunt_light",
+			"gruntfile.coffee": "_grunt_light",
+			"gulpfile": "_gulp_light",
+			"ionic.config.json": "_ionic_light",
+			"ionic.project": "_ionic_light",
+			"platformio.ini": "_platformio_light",
+			"rollup.config.js": "_rollup_light",
+			"sass-lint.yml": "_sass_light",
+			"stylelint.config.js": "_stylelint_light",
+			"yarn.clean": "_yarn_light",
+			"yarn.lock": "_yarn_light",
+			"webpack.config.js": "_webpack_light",
+			"webpack.config.build.js": "_webpack_light",
+			"webpack.common.js": "_webpack_light",
+			"webpack.dev.js": "_webpack_light",
+			"webpack.prod.js": "_webpack_light",
+			"license": "_license_light",
+			"licence": "_license_light",
+			"copying": "_license_light",
+			"compiling": "_license_1_light",
+			"contributing": "_license_2_light",
+			"qmakefile": "_makefile_1_light",
+			"omakefile": "_makefile_2_light",
+			"cmakelists.txt": "_makefile_3_light",
+			"procfile": "_heroku_light",
+			"npm-debug.log": "_npm_ignored_light"
+		}
+	},
+}
